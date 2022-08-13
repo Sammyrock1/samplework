@@ -1,0 +1,28 @@
+body{
+    background: linear-gradient(to right, green,rgb(16, 3, 3));
+    background-repeat: no-repeat;
+    
+}
+.top-title{
+    background-color: green;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 100px;
+    color: white;
+
+}
+.bottom-title{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    font-family: Arial, sans-serif;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: gray;
+}
+.title{
+    font-family: Arial,sans-serif;
+    font-size: 20px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
